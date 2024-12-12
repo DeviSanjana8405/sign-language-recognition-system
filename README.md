@@ -41,6 +41,9 @@ The Sign Language Recognition project is designed to identify and interpret hand
 2. Press the alphabet key (e.g., `A`, `B`) to capture images for the respective gesture.
 3. Images will be saved in their respective alphabet folders for training purposes.
 
+![Screenshot 2024-12-12 193356](https://github.com/user-attachments/assets/75c2ce0a-6b93-4fc2-8bbe-ee1ea3e8c4f0)
+
+
 ## Model Training
 1. Prepare the dataset by ensuring each folder contains sufficient images for each letter.
 2. Run the training script:
@@ -49,6 +52,9 @@ The Sign Language Recognition project is designed to identify and interpret hand
    ```
 3. The trained model will be saved as `model.h5` in the project directory.
 
+![Screenshot 2024-12-12 193132](https://github.com/user-attachments/assets/c7010daf-26c6-4420-954c-cf8381a42ea5)
+
+
 ## Usage
 1. Start the recognition script:
    ```bash
@@ -56,6 +62,9 @@ The Sign Language Recognition project is designed to identify and interpret hand
    ```
 2. Show hand gestures in front of the webcam.
 3. The recognized letter will be displayed on the screen.
+
+![Screenshot 2024-12-12 193027](https://github.com/user-attachments/assets/b0e7b5c1-7afc-4318-b58e-0941072aac9a)
+
 
 ## Project Workflow
 1. **Data Collection**: Capture images for each sign.
